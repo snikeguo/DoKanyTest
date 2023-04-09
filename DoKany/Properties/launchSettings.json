@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DoKany": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
